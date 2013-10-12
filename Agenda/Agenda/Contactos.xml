@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Contacto>
+  <article name="Contrusctores S.A."
+           telefono="586947"
+           direccion="Urb. Campo verde I-6"
+           Type="Empresa"
+           ruc="4558697912">
+
+  </article>
+  <article name="Carlos Alberto Gonzalez"
+             telefono="123456"
+             direccion="Urb. Campo verde I-6"
+             Type="Persona"
+             dni="48170996">
+
+  </article>
+  <article name="Jose ALberto Bolanos"
+             telefono="852963"
+             direccion="Urb. Sarita colonia D-5"
+             Type="Persona"
+             dni="654987">
+
+  </article>
+  <article name="Dupree S.A."
+           telefono="222222"
+           direccion="UBR. parque ind 354"
+           Type="Empresa"
+           ruc="6976432649">
+  </article >
+  
+
+</Contacto>
